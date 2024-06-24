@@ -84,13 +84,6 @@ npm start
 
 The server will start on `http://localhost:3000`.
 
-### 7. Run Tests
-
-Run the following command to execute the tests:
-
-```bash
-npm test
-```
 
 ## API Endpoints
 
